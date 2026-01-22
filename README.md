@@ -1,8 +1,9 @@
-[![pxEmoji](https://img.shields.io/hangar/views/pxEmoji?link=https%3A%2F%2Fhangar.papermc.io%2FNekorise%2FpxEmoji&style=flat)](https://hangar.papermc.io/Nekorise/pxEmoji) [![pxEmoji](https://img.shields.io/hangar/dt/pxEmoji?link=https%3A%2F%2Fhangar.papermc.io%2FNekorise%2FpxEmoji&style=flat)](https://hangar.papermc.io/Nekorise/pxEmoji)
-
 Hangar: https://hangar.papermc.io/Nekorise/pxEmoji
 
 ![Demo](https://github.com/Nek0rise/pxEmoji/blob/main/media/pxemoji.png?raw=true)
+
+[![pxEmoji](https://img.shields.io/hangar/views/pxEmoji?link=https%3A%2F%2Fhangar.papermc.io%2FNekorise%2FpxEmoji&style=flat)](https://hangar.papermc.io/Nekorise/pxEmoji) [![pxEmoji](https://img.shields.io/hangar/dt/pxEmoji?link=https%3A%2F%2Fhangar.papermc.io%2FNekorise%2FpxEmoji&style=flat)](https://hangar.papermc.io/Nekorise/pxEmoji)
+
 
 pxEmoji is a lightweight Minecraft plugin that adds emoji (Unicode symbols) to chat tab completion and ensures correct rendering of these symbols on signs
 
